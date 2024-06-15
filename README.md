@@ -1,1 +1,1 @@
-# AI_for_Medicine_Specialization
+# AI_for_Medicine
